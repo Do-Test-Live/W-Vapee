@@ -1604,7 +1604,7 @@ font-family: "HELVETICANEUELTPRO-THEX", "微软雅黑"color: #222;
 	width: 38px;
 	height: 1px;
 	background-color: #fff;
-	color: #ef1818;
+	color:#3bba9c;
 }
 .s2-tiem:hover .s2-img {
 	top: -20px;
@@ -1613,7 +1613,7 @@ font-family: "HELVETICANEUELTPRO-THEX", "微软雅黑"color: #222;
 	top: -20px;
 }
 .s2-tiem:hover .s2-text h4 {
-	color: #ef1818;
+	color: #3bba9c;
 }
 .section3 {
 	padding: 0;
@@ -1635,11 +1635,11 @@ font-family: "HELVETICANEUELTPRO-THEX", "微软雅黑"color: #222;
 	margin-bottom: 10px;
 }
 .s3-text {
-	max-height: 134px;
+	max-height: 400px;
 	line-height: 26px;
 	font-size: 13px;
 	overflow: hidden;
-	color: #848484;
+	color: #ffffff;
 }
 .s3-text:before {
 	content: "";
@@ -1649,6 +1649,11 @@ font-family: "HELVETICANEUELTPRO-THEX", "微软雅黑"color: #222;
 	margin: 0 auto 30px;
 	width: 3em;
 }
+.aboutsec{
+	background-color: #3bba9c;
+}
+
+
  @media screen and (min-width: 1200px) and (max-width:1459px) {
 .s3-tiem {
 	padding: 50px 15% 0;
@@ -1668,7 +1673,7 @@ font-family: "HELVETICANEUELTPRO-THEX", "微软雅黑"color: #222;
 }
  @media screen and (min-width:0) and (max-width:991px) {
 .s3-tiem {
-	padding: 50px 15%;
+	padding: 85px 15%;
 }
 }
 .section4 {
@@ -2259,11 +2264,11 @@ font-family: "HELVETICANEUELTPRO-THEX", "微软雅黑"color: #222;
 	z-index: 2;
 	padding: 10px 0;
 	text-align: center;
-	border-top: 1px solid #292929;
+	border-top: 1px solid #3bba9c;
 	line-height: 22px;
 	color: #8e8e8e;
 	font-size: 12px;
-	background: #000;
+	background: #202232;
 }
 .foot-b a {
 	color: #8e8e8e;
