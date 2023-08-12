@@ -1308,8 +1308,9 @@ ul, ol, li {
 	overflow: hidden;
 }
 .title10 h4 a {
-	color: #EAEAEA;
+	color: #ffffff;
 }
+
 .title10 p {
 
 	font-size: 14px;
@@ -1529,7 +1530,6 @@ ul, ol, li {
 	right: 0;
 	top: 0;
 	bottom: 0;
-	background: rgba(0,0,0,.3);
 }
 .section2 .container {
 	position: relative;
@@ -1562,7 +1562,7 @@ ul, ol, li {
 }
 .s2-text h4 {
 	margin: 0;
-	color: #DDD;
+	color: #000000;
 	height: 50px;
 	font-size: 16px;
 	line-height: 40px;
@@ -1613,11 +1613,11 @@ font-family: "HELVETICANEUELTPRO-THEX", "微软雅黑"color: #222;
 	top: -20px;
 }
 .s2-tiem:hover .s2-text h4 {
-	color: #3bba9c;
+	color: #000000;
 }
 .section3 {
 	padding: 0;
-	background: #1D1E20;
+	background: #181818;
 }
 .section3 .col-md-6 {
 	padding: 0;
@@ -1627,9 +1627,18 @@ font-family: "HELVETICANEUELTPRO-THEX", "微软雅黑"color: #222;
 .s3-img img {
 	width: 100%;
 	height: auto;
+	padding-top: 90px;
+}
+@media only screen and (max-width: 992px) {
+	.s3-img img {
+		width: 100% !important;
+		height: auto !important;
+		padding-top: 10px !important;
+	}
 }
 .s3-tiem {
 	padding: 60px 15% 0;
+	padding-bottom: 40px;
 }
 .s3-tiem .title10 {
 	margin-bottom: 10px;
@@ -1650,7 +1659,7 @@ font-family: "HELVETICANEUELTPRO-THEX", "微软雅黑"color: #222;
 	width: 3em;
 }
 .aboutsec{
-	background-color: #3bba9c;
+	background-color: #181818;
 }
 
 
@@ -2264,14 +2273,14 @@ font-family: "HELVETICANEUELTPRO-THEX", "微软雅黑"color: #222;
 	z-index: 2;
 	padding: 10px 0;
 	text-align: center;
-	border-top: 1px solid #3bba9c;
+	border-top: 1px solid #000000;
 	line-height: 22px;
 	color: #8e8e8e;
 	font-size: 12px;
-	background: #202232;
+	background: #e2dec4;
 }
 .foot-b a {
-	color: #8e8e8e;
+	color: #000000;
 }
 #outer-w {
 	width: 100%;

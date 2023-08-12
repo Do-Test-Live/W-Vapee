@@ -17,7 +17,7 @@ body {
 
     color: #fff;
 
-    background: #2e3047;
+    background: #fcf6f1;
 
     -webkit-font-smoothing: antialiased;
 
@@ -42,7 +42,7 @@ body {
 
 a {
 
-    color: #3bba9c;
+    color:#000000;
 
     text-decoration: none;
 
@@ -58,7 +58,7 @@ a:hover, a:focus {
 
     text-decoration: none;
 
-    color: #3bba9c;
+    color:#000000;
 
 }
 
@@ -100,7 +100,7 @@ strong {
 
     height: 1px;
 
-    background: #3bba9c;
+    background:#000000;
 
     bottom: 0;
 
@@ -215,6 +215,9 @@ i.jup-logo {
     color: #fff;
 
 }
+.head1{
+    color: #000000;
+}
 
 .navbar-default {
 
@@ -223,7 +226,7 @@ i.jup-logo {
 
 
     transition: all linear .5s;
-    background: #2e3047;
+    background: #181818;
     padding: 15px 0;
 }
 
@@ -260,7 +263,7 @@ ul.navbar-nav > li:before {
 
     bottom: 10px;
 
-    background: #3bba9c;
+    background:#000000;
 
     height: 2px;
 
@@ -282,7 +285,7 @@ ul.navbar-nav > li:before {
 
 .navbar-default .navbar-nav li.dropdown-header {
 
-    color: #3bba9c;
+    color:#000000;
 
     padding-left: 8px;
 
@@ -402,7 +405,7 @@ ul.navbar-nav > li:hover:before, ul.navbar-nav > li:focus:before, ul.navbar-nav 
 
 .navbar-toggle:not(.collapsed) .icon-bar.top-bar {
 
-    background: #3bba9c;
+    background:#000000;
 
     -webkit-transform: rotate(45deg);
 
@@ -422,7 +425,7 @@ ul.navbar-nav > li:hover:before, ul.navbar-nav > li:focus:before, ul.navbar-nav 
 
 .navbar-toggle:not(.collapsed) .icon-bar.bottom-bar {
 
-    background: #3bba9c;
+    background:#000000;
 
     margin: 0;
 
@@ -618,6 +621,9 @@ ul.navbar-nav > li:hover:before, ul.navbar-nav > li:focus:before, ul.navbar-nav 
     transform-origin: 50% 100%;
 
 }
+.head2{
+    color: white !important;
+}
 
 
 /*** ====================================================================
@@ -678,15 +684,15 @@ ul.navbar-nav > li:hover:before, ul.navbar-nav > li:focus:before, ul.navbar-nav 
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary, .btn-primary:active, .btn-primary.active {
 
-    background: #3bba9c;
+    background:#000000;
 
-    background: #3bba9c;
+    background:#000000;
 
     box-shadow: none;
 
     color: #fff;
 
-    border-color:#3bba9c;
+    border-color: #000000;
 
 }
 
@@ -697,7 +703,7 @@ ul.navbar-nav > li:hover:before, ul.navbar-nav > li:focus:before, ul.navbar-nav 
 
     100% {
 
-        border-color:#3bba9c;
+        border-color: #000000;
 
         top: -12px;
 
@@ -717,7 +723,7 @@ ul.navbar-nav > li:hover:before, ul.navbar-nav > li:focus:before, ul.navbar-nav 
 
     100% {
 
-        border-color: #3bba9c;
+        border-color: #000000;
 
         top: -12px;
 
@@ -2914,7 +2920,7 @@ footer ul > li > a {
 
 #intro .carousel-indicators .active, #testimonials .carousel-indicators .active {
 
-    background: #3bba9c;
+    background: #000000;
 
     height: 10px;
 
@@ -3100,7 +3106,7 @@ footer ul > li > a {
 
 #intro .item {
 
-    background: #2e3047;
+    background: #e2dec4;
 
 }
 
@@ -4029,7 +4035,7 @@ form .contact_input_area label.error {
 
     .navbar-default {
 
-        background: #2e3047;
+        background: #181818;
 
     }
 
@@ -4054,7 +4060,7 @@ form .contact_input_area label.error {
         clear: both;
 
         margin: 0;
-        background-color: #2e3047;
+        background-color: #000000;
 
     }
 
